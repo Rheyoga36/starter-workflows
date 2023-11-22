@@ -1,0 +1,5 @@
+{https://github.com/actions/starter-workflows.git
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
